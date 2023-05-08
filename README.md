@@ -18,7 +18,7 @@ Ensure that you have python installed
 
 ## Running the project 
 1. Git clone the project by running this code in your terminal   
-`git clone `
+`git clone https://github.com/carinachu22/Hangman.git `
 
 2. cd to the location that this github repo is cloned to    
 `cd <location-of-github-repo>`
